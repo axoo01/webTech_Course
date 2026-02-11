@@ -1,0 +1,14 @@
+# Spring Boot / Maven
+target/
+*.log
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Mac junk
+.DS_Store
