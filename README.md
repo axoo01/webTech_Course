@@ -19,7 +19,7 @@ Connected to PostgreSQL (JPA + Hibernate)
 ![POST new product](Screenshots/create-product.png)
 
 **PostgreSQL Table after POST - New product saved**
-![POST new product](Screenshots/pg_admin.png)
+![POST new product](Screenshots/pg-admin.png)
 
 **Updating product details (200 OK)**
 ![PUT product update](Screenshots/updating-product.png)
