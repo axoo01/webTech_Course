@@ -7,10 +7,10 @@
 - PATCH /api/products/updateProduct/{id} → update product
 - DELETE /api/products/{id} → delete
 
-## Database
+### Database
 Connected to PostgreSQL (JPA + Hibernate)
 
-## Screenshots (Postman, pg Admin tests)
+### Screenshots (Postman, pg Admin tests)
 
 **GET /api/products - Fetching all products from DB**
 ![GET all products](Screenshots/get-all-products.png)
